@@ -8,3 +8,6 @@
 
 # Wireframe
 <img width="1295" height="592" alt="Cuplikan layar 2025-11-05 145105" src="https://github.com/user-attachments/assets/1377b68f-3619-4cae-80eb-aae1c98322ac" />
+
+# Lokasi
+<img width="1446" height="364" alt="Cuplikan layar 2025-11-11 182322" src="https://github.com/user-attachments/assets/f3a76e44-7c5d-47ef-8d96-5380fcd5baef" />
